@@ -1,0 +1,124 @@
+.mlab.com password
+HEROKU_API_KEY language:json
+HEROKU_API_KEY language:shell
+HOMEBREW_GITHUB_API_TOKEN language:shell
+JEKYLL_GITHUB_TOKEN
+OTP
+PT_TOKEN language:bash
+SF_USERNAME salesforce
+[WFClient] Password= extension:ica
+api_key
+api_token:
+auth
+authentication
+authorization_bearer:
+client_id
+client_secret
+extension:dbeaver-data-sources.xml
+extension:json api.forecast.io
+extension:json cloud.redislabs.com
+extension:json googleusercontent client_secret
+extension:json mongolab.com
+extension:pem private
+extension:ppk private
+extension:sql mysql dump
+extension:sql mysql dump password
+extension:yaml cloud.redislabs.com
+extension:yaml mongolab.com
+filename:.bash_history
+filename:.bash_history <Domain name>
+filename:.bash_profile aws
+filename:.bashrc mailchimp
+filename:.bashrc password
+filename:.cshrc
+filename:.dockercfg auth
+filename:.env DB_USERNAME NOT homestead
+filename:.env MAIL_HOST=smtp.gmail.com
+filename:.esmtprc password
+filename:.ftpconfig
+filename:.git-credentials
+filename:.history
+filename:.htpasswd
+filename:.netrc password
+filename:.npmrc _auth
+filename:.pgpass
+filename:.remote-sync.json
+filename:.s3cfg
+filename:.sh_history
+filename:.tugboat NOT _tugboat
+filename:CCCam.cfg
+filename:WebServers.xml
+filename:_netrc password
+filename:config irc_pass
+filename:config.json auths
+filename:config.php dbpasswd
+filename:config.php pass
+filename:config password language:PHP
+filename:config password language:XML
+filename:configuration.php JConfig password
+filename:connections.xml
+filename:credentials aws_access_key_id
+filename:database
+filename:dbeaver-data-sources.xml
+filename:deployment-config.json
+filename:dhcpd.conf
+filename:express.conf path:.openshift
+filename:filezilla.xml Pass
+filename:hub oauth_token
+filename:id_rsa or filename:id_dsa
+filename:idea14.key
+filename:jupyter_notebook_config.json
+filename:logins.json
+filename:manifest.xml
+filename:master.key path:config
+filename:passwd path:etc
+filename:prod.exs NOT prod.secret.exs
+filename:prod.secret.exs
+filename:proftpdpasswd
+filename:recentservers.xml Pass
+filename:robomongo.json
+filename:secrets.yml password
+filename:server.cfg rcon password
+filename:settings.py SECRET_KEY
+filename:sftp-config.json
+filename:sftp.json path:.vscode
+filename:shadow path:etc
+filename:sshd_config
+filename:travis.yml
+filename:ventrilo_srv.ini
+filename:vim_settings.xml
+filename:wp-config.php
+fullname:firstname lastname (fullname:<name> <surname>)
+in:email (data in:email)
+in:login (<username> in:login)
+in:name (<username> in:name)
+jsforce extension:js conn.login
+language:html password
+language:java api
+language:perl password
+language:php username
+language:python username
+language:shell username
+language:sql username
+msg nickserv identify filename:config
+oauth
+org:name (org:google type:users)
+passcode
+password
+password hash
+path:sites databases password
+rds.amazonaws.com password
+secret
+shodan_api_key language:json
+shodan_api_key language:python
+shodan_api_key language:ruby
+shodan_api_key language:shell
+user auth
+user:name (user:admin)
+user_pass
+user_password
+xoxp OR xoxb
+"Authorization: Bearer"
+"api keys"
+"api token"
+"-----BEGIN PRIVATE KEY-----" NOT test
