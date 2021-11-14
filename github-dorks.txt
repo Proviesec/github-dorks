@@ -55,6 +55,7 @@ filename:config.php dbpasswd
 filename:config.php pass
 filename:config password language:PHP
 filename:config password language:XML
+filename:config key
 filename:configuration.php JConfig password
 filename:connections.xml
 filename:credentials aws_access_key_id
@@ -80,6 +81,8 @@ filename:robomongo.json
 filename:secrets.yml password
 filename:server.cfg rcon password
 filename:settings.py SECRET_KEY
+filename:settings password
+filename:settings key
 filename:sftp-config.json
 filename:sftp.json path:.vscode
 filename:shadow path:etc
