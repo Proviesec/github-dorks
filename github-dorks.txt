@@ -51,7 +51,7 @@ filename:WebServers.xml
 filename:_netrc password
 filename:config irc_pass
 filename:config.json auths
-filename:config.php dbpasswd
+filename:config dbpasswd
 filename:config.php pass
 filename:config password language:PHP
 filename:config password language:XML
@@ -83,6 +83,7 @@ filename:server.cfg rcon password
 filename:settings.py SECRET_KEY
 filename:settings password
 filename:settings key
+filenane:settings secret 
 filename:sftp-config.json
 filename:sftp.json path:.vscode
 filename:shadow path:etc
