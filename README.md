@@ -13,7 +13,6 @@ If you have any GitHub Dorks, just create a PullRequest.
 - Check out the commits
 - Check out the company staff GitHub repos 
 
-
 # ToDos
 
 - ...
