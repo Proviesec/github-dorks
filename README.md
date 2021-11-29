@@ -15,4 +15,13 @@ If you have any GitHub Dorks, just create a PullRequest.
 
 # GitHub security best practices
 
-- ...
+- Always check/review your code: this will help you identify any employee's bad security practices. 
+- Clear your GitHub history to protect your most sensitive information. 
+- Use ENV variables to store key information in CI/CD. Tools such as Vault are one of the best suggestions for these situations. 
+- If you are sure that the data has been exposed, make sure to invalidate the token and password. 
+- Configure 2FA for all your GitHub accounts
+- Once employees no longer work for your company, be sure to revoke all their access rights.
+- Write and publish a disclosure policy in your SECURITY.md file. Never let your company’s developers share GitHub credentials with anyone. 
+
+
+
