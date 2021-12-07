@@ -89,6 +89,7 @@ filename:sftp.json path:.vscode
 filename:shadow path:etc
 filename:sshd_config
 filename:travis.yml
+filename:travis.yml password
 filename:ventrilo_srv.ini
 filename:vim_settings.xml
 filename:wp-config.php
