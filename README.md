@@ -24,6 +24,3 @@ If you have any GitHub Dorks, just create a PullRequest.
 - Configure 2FA for all your GitHub accounts
 - Once employees no longer work for your company, be sure to revoke all their access rights.
 - Write and publish a disclosure policy in your SECURITY.md file. Never let your company’s developers share GitHub credentials with anyone. 
-
-
-
