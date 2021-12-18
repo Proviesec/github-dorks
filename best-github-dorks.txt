@@ -3,3 +3,4 @@ filename:config password
 filename:setting key
 filename:setting password
 filename:env password
+filename:config secret
