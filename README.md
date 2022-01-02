@@ -13,6 +13,7 @@ If you have any GitHub Dorks, just create a PullRequest.
 # Todos
 
 - [ ] best aws secret dorks 
+- [ ] best misspelled keywords dorks
 - [ ] best db pw dorks
 
 
