@@ -2,4 +2,5 @@ filename:database password
 filename:database pw
 path:sites databases password
 filename:config dbpasswd
+filename:conf database
 filename:.env DB_USERNAME NOT homestead
