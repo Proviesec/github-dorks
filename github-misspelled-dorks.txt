@@ -1,0 +1,4 @@
+filename:conffig
+pasword
+passsword
+seccret 
