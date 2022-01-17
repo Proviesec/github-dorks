@@ -1,4 +1,6 @@
 filename:conffig
+filename:seting 
+usser
 pasword
 passsword
 seccret 
