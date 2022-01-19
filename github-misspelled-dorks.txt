@@ -9,3 +9,4 @@ setttings
 acccess
 accout
 acount
+htacess
