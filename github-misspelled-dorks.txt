@@ -5,3 +5,4 @@ pasword
 passsword
 seccret 
 datebase
+setttings
