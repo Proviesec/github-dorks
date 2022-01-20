@@ -10,3 +10,5 @@ acccess
 accout
 acount
 htacess
+mesql
+mysqql
