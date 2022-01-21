@@ -12,4 +12,5 @@ acount
 htacess
 mesql
 mysqql
-bassword 
+bassword
+filename:konfig
