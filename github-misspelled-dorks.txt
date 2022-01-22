@@ -5,6 +5,8 @@ pasword
 passsword
 passoword
 seccret 
+secred
+sicret
 datebase
 setttings
 acccess
