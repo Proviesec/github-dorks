@@ -15,3 +15,7 @@ mesql
 mysqql
 bassword
 filename:konfig
+htaccess_file
+.htaccess
+htacces
+.htacess
