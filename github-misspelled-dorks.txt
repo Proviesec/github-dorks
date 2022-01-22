@@ -3,6 +3,7 @@ filename:seting
 usser
 pasword
 passsword
+passoword
 seccret 
 datebase
 setttings
