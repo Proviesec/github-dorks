@@ -10,7 +10,6 @@
 
 If you have any GitHub Dorks, just create a PullRequest. 
 
-
 # Todos
 
 - [x] best aws secret dorks 
@@ -19,6 +18,7 @@ If you have any GitHub Dorks, just create a PullRequest.
 - [ ] best credentials combis
 - [ ] best github secret combis
 - [ ] CMS github secret
+- [ ] htacces dorks
 
 # Example 
 
