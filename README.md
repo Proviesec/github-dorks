@@ -127,6 +127,7 @@ created:<2012–04–05
 created:>=2011–06–12
 created:2016–02–07 location:iceland
 created:2011–04–06..2013–01–14 <user> in:username
+... 
 
 # GitHub Dorks for Finding Information using Extension
 extension:pem private
@@ -139,3 +140,6 @@ extension:yaml mongolab.com
 [WFClient] Password= extension:ica
 extension:avastlic “support.avast.com”
 extension:json googleusercontent client_secret
+...
+
+# Links 
