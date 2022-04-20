@@ -30,6 +30,7 @@ Pic github
 
 - Check out the commits
 - Check out the company staff GitHub repos 
+- Check for company secret words
 
 # GitHub security best practices
 
