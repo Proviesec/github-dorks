@@ -125,10 +125,10 @@ fullname:firstname lastname (fullname:<name> <surname>)
 in:email (data in:email)
 
 #GitHub Dorks for Finding Information using Dates
-created:<2012–04–05
-created:>=2011–06–12
-created:2016–02–07 location:iceland
-created:2011–04–06..2013–01–14 <user> in:username
+- created:<2012–04–05
+- created:>=2011–06–12
+- created:2016–02–07 location:iceland
+- created:2011–04–06..2013–01–14 <user> in:username
 ... 
 
 # GitHub Dorks for Finding Information using Extension
