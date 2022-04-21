@@ -96,10 +96,10 @@ language:java api
 HOMEBREW_GITHUB_API_TOKEN language:shell
 
 # GiHub Dorks for Finding API Keys, Tokens and Passwords
-api_key
-“api keys”
-authorization_bearer:
-oauth
+- api_key
+- “api keys”
+- authorization_bearer:
+- oauth
 auth
 authentication
 client_secret
