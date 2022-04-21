@@ -133,16 +133,16 @@ created:2011–04–06..2013–01–14 <user> in:username
 
 # GitHub Dorks for Finding Information using Extension
     
-extension:pem private
-extension:ppk private
-extension:sql mysql dump
-extension:sql mysql dump password
-extension:json api.forecast.io
-extension:json mongolab.com
-extension:yaml mongolab.com
-[WFClient] Password= extension:ica
-extension:avastlic “support.avast.com”
-extension:json googleusercontent client_secret
+- extension:pem private
+- extension:ppk private
+- extension:sql mysql dump
+- extension:sql mysql dump password
+- extension:json api.forecast.io
+- extension:json mongolab.com
+- extension:yaml mongolab.com
+- [WFClient] Password= extension:ica
+- extension:avastlic “support.avast.com”
+- extension:json googleusercontent client_secret
 ...
 
 # Links 
