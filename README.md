@@ -86,14 +86,14 @@ https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning
 - filename:id_rsa or filename:id_dsa
     
 # GitHub Dorks for Finding Languages
-language:python username
-language:php username
-language:sql username
-language:html password
-language:perl password
-language:shell username
-language:java api
-HOMEBREW_GITHUB_API_TOKEN language:shell
+- language:python username
+- language:php username
+- language:sql username
+- language:html password
+- language:perl password
+- language:shell username
+- language:java api
+- HOMEBREW_GITHUB_API_TOKEN language:shell
 
 # GiHub Dorks for Finding API Keys, Tokens and Passwords
 - api_key
