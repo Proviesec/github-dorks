@@ -104,17 +104,17 @@ https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning
 - authentication
 - client_secret
 - api_token:
-“api token”
-client_id
-password
-user_password
-user_pass
-passcode
-client_secret
-secret
-password hash
-OTP
-user auth
+- “api token”
+- client_id
+- password
+- user_password
+- user_pass
+- passcode
+- client_secret
+- secret
+- password hash
+- OTP
+- user auth
 
 # GitHub Dorks for Finding Usernames
 user:name (user:admin)
