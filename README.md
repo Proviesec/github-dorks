@@ -100,10 +100,10 @@ HOMEBREW_GITHUB_API_TOKEN language:shell
 - “api keys”
 - authorization_bearer:
 - oauth
-auth
-authentication
-client_secret
-api_token:
+- auth
+- authentication
+- client_secret
+- api_token:
 “api token”
 client_id
 password
