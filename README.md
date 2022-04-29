@@ -32,7 +32,7 @@ Pic github
 - Check out the company staff GitHub repos 
 - Check for company secret words
 
-# GitHub security best practices
+## GitHub security best practices
 
 - Always check/review your code: this will help you identify any employee's bad security practices. 
 - Clear your GitHub history to protect your most sensitive information. 
@@ -44,7 +44,7 @@ Pic github
 
 https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning
 
-# GitHub Dorks for Finding Files
+## GitHub Dorks for Finding Files
 
 - filename:manifest.xml
 - filename:travis.yml
@@ -85,7 +85,7 @@ https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning
 - filename:credentials aws_access_key_id
 - filename:id_rsa or filename:id_dsa
     
-# GitHub Dorks for Finding Languages
+## GitHub Dorks for Finding Languages
 - language:python username
 - language:php username
 - language:sql username
@@ -95,7 +95,7 @@ https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning
 - language:java api
 - HOMEBREW_GITHUB_API_TOKEN language:shell
 
-# GiHub Dorks for Finding API Keys, Tokens and Passwords
+## GiHub Dorks for Finding API Keys, Tokens and Passwords
 - api_key
 - “api keys”
 - authorization_bearer:
@@ -116,7 +116,7 @@ https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning
 - OTP
 - user auth
 
-# GitHub Dorks for Finding Usernames
+## GitHub Dorks for Finding Usernames
 user:name (user:admin)
 org:name (org:google type:users)
 in:login (<username> in:login)
@@ -124,14 +124,14 @@ in:name (<username> in:name)
 fullname:firstname lastname (fullname:<name> <surname>)
 in:email (data in:email)
 
-#GitHub Dorks for Finding Information using Dates
+## GitHub Dorks for Finding Information using Dates
 - created:<2012–04–05
 - created:>=2011–06–12
 - created:2016–02–07 location:iceland
 - created:2011–04–06..2013–01–14 <user> in:username
 ... 
 
-# GitHub Dorks for Finding Information using Extension
+## GitHub Dorks for Finding Information using Extension
     
 - extension:pem private
 - extension:ppk private
