@@ -117,12 +117,12 @@ https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning
 - user auth
 
 ## GitHub Dorks for Finding Usernames
-user:name (user:admin)
-org:name (org:google type:users)
-in:login (<username> in:login)
-in:name (<username> in:name)
-fullname:firstname lastname (fullname:<name> <surname>)
-in:email (data in:email)
+- user:name (user:admin)
+- org:name (org:google type:users)
+- in:login (<username> in:login)
+- in:name (<username> in:name)
+- fullname:firstname lastname (fullname:<name> <surname>)
+- in:email (data in:email)
 
 ## GitHub Dorks for Finding Information using Dates
 - created:<2012–04–05
