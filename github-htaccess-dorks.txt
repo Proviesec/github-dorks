@@ -1,1 +1,2 @@
-
+htaccess RewriteEngine On
+htaccess General Apache options
