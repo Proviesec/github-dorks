@@ -21,7 +21,7 @@ If you have any GitHub Dorks, just create a PullRequest.
 - [ ] best credentials combis
 - [ ] best github secret combis
 - [ ] CMS github secret
-- [ ] htacces dorks
+- [x] htacces dorks
 - [ ] email dorks
 - [ ] github dorks Writeups 
 
