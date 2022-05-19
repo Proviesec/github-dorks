@@ -1,2 +1,3 @@
 htaccess RewriteEngine On
 htaccess General Apache options
+htaccess AddOutputFilterByType 
