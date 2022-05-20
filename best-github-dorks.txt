@@ -7,3 +7,5 @@ filename:config secret
 filename:setting secret
 filename:config passwort
 filename:setting passwort
+filename:config pwd
+filename:setting pwd
