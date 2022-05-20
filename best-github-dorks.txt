@@ -5,3 +5,5 @@ filename:setting password
 filename:env password
 filename:config secret
 filename:setting secret
+filename:config passwort
+filename:setting passwort
