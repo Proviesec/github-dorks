@@ -10,3 +10,4 @@ filename:setting passwort
 filename:config pwd
 filename:setting pwd
 filename:env pwd
+filename:env passwort
