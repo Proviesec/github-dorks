@@ -27,7 +27,7 @@ If you have any GitHub Dorks, just create a PullRequest.
 
 # Example 
 
-Pic github 
+Screenshot
 
 # Tips
 
