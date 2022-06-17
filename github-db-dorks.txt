@@ -1,5 +1,6 @@
 filename:database password
 filename:database pw
+filename:database secret 
 path:sites databases password
 filename:config dbpasswd
 filename:conf database
