@@ -1,3 +1,4 @@
 googlemail.com
 emailaddress
 mailaddress
+outlook.com
