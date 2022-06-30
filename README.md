@@ -18,7 +18,7 @@ If you have any GitHub Dorks, just create a PullRequest.
 - [x] best aws secret dorks 
 - [x] best misspelled keywords dorks
 - [x] best db pw dorks
-- [ ] best credentials combis
+- [x] best credentials combis
 - [ ] best github secret combis
 - [ ] CMS github secret
 - [x] htacces dorks
