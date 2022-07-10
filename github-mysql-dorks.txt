@@ -1,1 +1,8 @@
-mysql
+mysql filename:database password
+mysql filename:database pw
+mysql filename:database secret 
+mysql path:sites databases password
+mysql filename:config dbpasswd
+filename:conf database
+filename:.env DB_USERNAME NOT homestead
+mysql password
