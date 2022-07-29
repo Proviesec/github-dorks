@@ -1,2 +1,3 @@
 filename:config password
+filename:config secret
 
