@@ -1,3 +1,6 @@
 filename:config password
 filename:config secret
-
+filename:config apiKey
+filename:cfg apiKey
+filename:cfg password
+filename:cfg secret
