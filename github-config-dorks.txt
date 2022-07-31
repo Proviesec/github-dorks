@@ -4,3 +4,4 @@ filename:config apiKey
 filename:cfg apiKey
 filename:cfg password
 filename:cfg secret
+filename:wp-config.php
