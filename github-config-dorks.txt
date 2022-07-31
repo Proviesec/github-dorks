@@ -5,3 +5,7 @@ filename:cfg apiKey
 filename:cfg password
 filename:cfg secret
 filename:wp-config.php
+filename:config.json auths
+filename:configuration password
+filename:config dbpasswd
+filename:config pass
