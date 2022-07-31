@@ -9,3 +9,4 @@ filename:config.json auths
 filename:configuration password
 filename:config dbpasswd
 filename:config pass
+filename:master.key path:config
