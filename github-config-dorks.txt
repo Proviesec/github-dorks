@@ -10,3 +10,4 @@ filename:configuration password
 filename:config dbpasswd
 filename:config pass
 filename:master.key path:config
+filename:jupyter_notebook_config.json
