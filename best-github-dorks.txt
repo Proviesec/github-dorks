@@ -6,9 +6,9 @@ filename:setting password NOT test
 filename:env password NOT test
 filename:config secret NOT test
 filename:setting secret NOT test
-filename:env secret
-filename:config passwort
-filename:setting passwort
+filename:env secret NOT test
+filename:config passwort NOT test
+filename:setting passwort NOT test
 filename:env passwort
 filename:config pwd
 filename:setting pwd
