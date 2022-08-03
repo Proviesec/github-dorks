@@ -1,4 +1,4 @@
-filename:config key
+filename:config key NOT test
 filename:setting key
 filename:env key
 filename:config password
