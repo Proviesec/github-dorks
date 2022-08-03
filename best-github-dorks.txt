@@ -1,11 +1,11 @@
 filename:config key NOT test
 filename:setting key NOT test
-filename:env key
-filename:config password
-filename:setting password
-filename:env password
-filename:config secret
-filename:setting secret
+filename:env key NOT test
+filename:config password NOT test
+filename:setting password NOT test
+filename:env password NOT test
+filename:config secret NOT test
+filename:setting secret NOT test
 filename:env secret
 filename:config passwort
 filename:setting passwort
