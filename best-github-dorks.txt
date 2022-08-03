@@ -9,7 +9,7 @@ filename:setting secret NOT test
 filename:env secret NOT test
 filename:config passwort NOT test
 filename:setting passwort NOT test
-filename:env passwort
-filename:config pwd
+filename:env passwort NOT test
+filename:config pwd NOT test
 filename:setting pwd
 filename:env pwd
