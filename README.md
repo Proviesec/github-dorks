@@ -23,6 +23,7 @@ If you have any GitHub Dorks, just create a PullRequest.
 - [ ] CMS github secret
 - [x] htacces dorks
 - [x] email dorks
+- [ ] github dorks how-to
 - [ ] github dorks Writeups 
 
 # Example 
