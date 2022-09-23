@@ -13,3 +13,4 @@ filename:env passwort NOT test
 filename:config pwd NOT test
 filename:setting pwd NOT test
 filename:env pwd NOT test
+filename:config hostname 
