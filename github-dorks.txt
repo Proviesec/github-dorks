@@ -85,6 +85,7 @@ filename:server.cfg rcon password
 filename:settings.py SECRET_KEY
 filename:settings password
 filename:settings key
+filenane:settings sec
 filenane:settings secret 
 filename:sftp-config.json
 filename:sftp.json path:.vscode
