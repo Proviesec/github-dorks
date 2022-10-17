@@ -119,7 +119,7 @@ https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning
 - password hash
 - OTP
 - user auth
-
+ 
 ## GitHub Dorks for Finding Usernames
 - user:name (user:admin)
 - org:name (org:google type:users)
