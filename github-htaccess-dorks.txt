@@ -3,3 +3,4 @@ htaccess General Apache options
 htaccess AddOutputFilterByType 
 htaccess RewriteCond 
 path:**/htaccess
+path:**/htaccess language:Text
