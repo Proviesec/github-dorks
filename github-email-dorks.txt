@@ -4,3 +4,4 @@ mailaddress
 outlook.com
 mail
 mailaddress
+mailto
