@@ -14,3 +14,10 @@ filename:config pwd NOT test
 filename:setting pwd NOT test
 filename:env pwd NOT test
 filename:config hostname 
+Org:"target" pwd/pass/passwd/password
+
+"target. atlassian" pwd/pass/passwd/password
+
+"target. okta" pwd/pass/passwd/password
+
+"Jira. target" pwd/pass/passwd/password
